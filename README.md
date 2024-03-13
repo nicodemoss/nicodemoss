@@ -10,4 +10,5 @@ Atualmente estou estudando e aprimorando minhas habilidades em:
 
 Back-end e Front-end
 ## Contato
-[!E-mail](https://img.icons8.com/dusk/64/000000/email.png)](conrado.nicodemos@hotmail.com)
+
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/310409120077447168) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/conrado.nicodemos/)
