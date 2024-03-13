@@ -10,4 +10,4 @@ Atualmente estou estudando e aprimorando minhas habilidades em:
 
 Back-end e Front-end
 ## Contato
-📧conrado.nicodemos\@hotmail\.com
+[!E-mail](https://img.icons8.com/dusk/64/000000/email.png)](conrado.nicodemos@hotmail.com)
